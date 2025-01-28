@@ -12,7 +12,6 @@ while (condition){
     count++;
     if (count==10){condition = 0;}
 }
-
 printf("---End-Loop-While---");
 return 0;
 }
