@@ -15,5 +15,5 @@ printf("---Break----\n");
         }
 
     printf("------End-Continue-----------");
-return 1;
+return 0;
 }
