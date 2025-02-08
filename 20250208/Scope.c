@@ -11,6 +11,6 @@ int main(){
     printf("Main \n");
     int mainNum =66;
     f1();
-    printf("%i \n", globalNum);
+    printf("%i \n", flNum);
 return 0;
 }
