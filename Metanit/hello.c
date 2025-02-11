@@ -1,7 +1,8 @@
 #include<stdio.h>
 #include<locale.h>
-int main(){
+int main(void){
     char *locale = setlocale(LC_ALL, "");
-    printf("Привет");
+    printf("Привет \n \a");
+    system("pause");
     return 0;
 }
